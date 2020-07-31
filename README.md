@@ -1,4 +1,6 @@
 # Ecoleta
+## Vídeo de apresentação do projeto
+[![](http://img.youtube.com/vi/YE9Hih0On9Q/0.jpg)](http://www.youtube.com/watch?v=YE9Hih0On9Q "")
 
 Projeto Ecoleta da primeira edição da NLW da Rocketseat.
 
